@@ -1,0 +1,8 @@
+https://github.com/stanfordnlp/GloVe
+
+parametros:
+
+MUDAR no arquivo demo.sh
+> remover a parte que baixa o text8
+> corpus nome do arquivo que sera processado
+> VOCAB_MIN_COUNT=1 (o default é 6)
